@@ -48,3 +48,7 @@ venv/
 
 # Environment files
 .env
+name = "DOE"           # String
+amount = 100           # Integer
+price = 89.99          # Float
+is_active = True       # Boolean
