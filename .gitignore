@@ -32,3 +32,19 @@ google-services.json
 
 # Android Profiling
 *.hprof
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment files
+.env
